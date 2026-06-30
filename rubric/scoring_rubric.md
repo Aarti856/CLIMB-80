@@ -7,14 +7,9 @@ Each model response was evaluated by human annotators across four dimensions usi
 | Score | Description |
 |---|---|
 | 0 | Completely invalid solution procedure/ Completely incorrect |
-| 1 | Significant errors in the mathematical procedure/Partially correct 
-
- |
-| 2 | Generally valid procedure with minor issues/Mostly correct  |
-| 3 | Fully valid and mathematically sound solution procedure/ Fully correct 
-
- |
-
+| 1 | Significant errors in the mathematical procedure/Partially correct|
+| 2 | Generally valid procedure with minor issues/Mostly correct |
+| 3 | Fully valid and mathematically sound solution procedure/ Fully correct|
 ## Reasoning Quality
 
 | Score | Description |
